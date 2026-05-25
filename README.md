@@ -62,7 +62,7 @@ src/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/first-landing-page.git
+git clone https://github.com/ulvibaku/first-landing-page.git
 cd first-landing-page
 
 # 2. Install dependencies
